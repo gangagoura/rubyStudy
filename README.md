@@ -1,1 +1,1 @@
-# rubyStudy
+# ruby study
